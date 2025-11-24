@@ -1,0 +1,23 @@
+{
+  "config": {
+    "display_mode": "window",
+    "music_muted": false
+  },
+  "stats": {
+    "current": null,
+    "last": {
+      "deliveries": 0,
+      "items": 0,
+      "duration_seconds": 120,
+      "best_algorithm": null,
+      "timestamp": "2025-11-24T02:29:10.768443"
+    },
+    "best": {
+      "deliveries": 9,
+      "items": 126,
+      "duration_seconds": 120,
+      "best_algorithm": "selection",
+      "timestamp": "2025-11-23T23:55:07.789009"
+    }
+  }
+}
