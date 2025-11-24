@@ -1,1 +1,8 @@
 venv
+*.pyc
+*.pyo
+
+__pycache__/
+
+utils/__pycache__/
+ui/__pycache__/
